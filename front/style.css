@@ -265,8 +265,7 @@ p {
 }
 
 .engagement-block {
-  background-image: -webkit-image-set(url("if/1200/images/photos/front_new2.jpg") 1x, url("if/2400/images/photos/front_new2.jpg") 2x);
-  background-image: image-set(url("if/1200/images/photos/front_new2.jpg") 1x, url("if/2400/images/photos/front_new2.jpg") 2x);
+  background-image: url("images/photos/front_new2.jpg");
   background-position: 50% 20%;
   background-size: cover;
 }
